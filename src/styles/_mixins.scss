@@ -1,0 +1,7 @@
+/* ----------------------------- Standard Mixins ---------------------------- */
+
+@mixin vertical-list {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}

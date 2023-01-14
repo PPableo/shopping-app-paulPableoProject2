@@ -1,0 +1,18 @@
+@import "./Styles/variables";
+@import "./Styles/mixins";
+@import "./styles/navbar";
+
+.wrapper {
+    background-color: $background-color;
+    color: $text-color;
+    padding: $block-padding;
+
+    &__btns {
+        @include vertical-list;
+
+        button {
+            width: $btn-width;
+            height: $btn-height;
+        }
+    }
+}
