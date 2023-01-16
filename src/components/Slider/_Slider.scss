@@ -1,0 +1,81 @@
+@import "../../styles/variables";
+
+.slider {
+    height: calc(100vh - 500px);
+    width: 100vw;
+    position: relative;
+    overflow: hidden;
+
+    .container {
+        position: relative;
+        width: 300vw;
+        display: flex;
+        height: 100%;
+        transition: all 1s ease;
+        // transform: translateX(-100vw);
+        // NOTE: We'er using transform to move it in the X Axis; we will use JS to do this
+        img {
+            height: 100%;
+            // NOTE: since we're using percent you should also use it in parent container
+            width: 100vw;
+            object-fit: cover;
+        }
+
+    }
+
+    .heroText {
+        height: 100%;
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        position: absolute;
+        left: 50px;
+        bottom: 0;
+        top: 0;
+        margin: auto;
+        color: white;
+        z-index: 2;
+        flex-direction: column;
+        width: 13%;
+        gap: 20px;
+        font-size: 2.5rem;
+
+        h1 {
+            text-transform: uppercase;
+        }
+
+        p {
+            font-size: 1.5rem;
+            text-transform: capitalize;
+        }
+
+        span {
+            font-family: "Mazius";
+            color: $detail-color;
+            text-transform: capitalize;
+            font-style: italic;
+        }
+    }
+
+    .icons {
+        display: flex;
+        width: fit-content;
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 100px;
+        margin: auto;
+        gap: 10px;
+
+        .icon {
+            width: 30px;
+            height: 30px;
+            border: 1px solid #999;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+        }
+    }
+}

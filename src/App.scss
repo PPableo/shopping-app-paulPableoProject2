@@ -1,18 +1,44 @@
 @import "./Styles/variables";
 @import "./Styles/mixins";
-@import "./styles/navbar";
+@import "./styles/general";
+@import "./components/NavBar/Navbar";
+@import "./components/Footer/Footer";
 
-.wrapper {
-    background-color: $background-color;
-    color: $text-color;
-    padding: $block-padding;
-
-    &__btns {
-        @include vertical-list;
-
-        button {
-            width: $btn-width;
-            height: $btn-height;
-        }
-    }
+@font-face {
+    font-family: "Mazius";
+    /*Can be any text*/
+    src: local("Mazius"),
+        url("./styles/fonts/Mazius\ Display\ Regular.otf") format("opentype");
 }
+
+@font-face {
+    font-family: "Light";
+    /*Can be any text*/
+    src: local("AirbnbCerealLight"),
+        url("./styles/fonts/Gilroy-Light.otf") format("opentype");
+}
+
+html {
+    font-family: "Light";
+}
+
+.link {
+    color: inherit;
+    text-decoration: none;
+}
+
+
+// .wrapper {
+//     background-color: $background-color;
+//     color: $text-color;
+//     padding: $block-padding;
+
+//     &__btns {
+//         @include vertical-list;
+
+//         button {
+//             width: $btn-width;
+//             height: $btn-height;
+//         }
+//     }
+// }
