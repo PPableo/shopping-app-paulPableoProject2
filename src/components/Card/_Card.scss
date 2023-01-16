@@ -1,10 +1,11 @@
 @import '../../styles/variables';
 
 .card {
-    width: 200px;
+    width: 280px;
     display: flex;
     flex-direction: column;
     gap: 10px;
+    margin-bottom: 50px;
 
     .image {
         width: 100%;
