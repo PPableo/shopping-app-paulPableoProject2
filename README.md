@@ -8,8 +8,6 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -18,10 +16,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -117,9 +112,9 @@ Project Link: [https://github.com/PPableo/shopping-app-paulPableoProject2](https
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
+* [PEXELS @mitch-lally-401527143](https://www.pexels.com/@mitch-lally-401527143/)
+* [MUI ICONS](https://mui.com/material-ui/material-icons/)
 * [Lama Dev](https://www.youtube.com/watch?v=BCkWFblNLKU&t=207s)
-* []()
-* []()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
