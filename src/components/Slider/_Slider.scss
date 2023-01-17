@@ -3,7 +3,7 @@
 
 .slider {
     height: calc(100vh - 500px);
-    width: 98.5vw;
+    width: 100vw;
     position: relative;
     overflow: hidden;
 
@@ -43,7 +43,7 @@
         font-size: 2.5rem;
 
         h1 {
-            
+            font-size: 3rem;
             text-transform: uppercase;
         }
 
