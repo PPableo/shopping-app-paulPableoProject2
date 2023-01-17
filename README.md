@@ -81,7 +81,11 @@ Pablo Is an app designed for D2C online Retailers that offers, high-quality clot
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+📌Pablo is a ecommerce platform designed as a direct-to-consumer online retailer. Pablo offers a wide range of high-quality clothing, accessories, and beauty products for men and women. With a sleek and user-friendly design, Pablo makes shopping easy and enjoyable.
+
+👉Our landing page features a beautiful carousel displaying our latest products, while our product page allows customers to easily browse and filter through our extensive selection. The cart functionality makes it simple to add items to your purchase and keep track of your order.
+
+👉Built with React, SASS, and JavaScript, Pablo offers lightning-fast performance and a seamless user experience. Whether you're looking for the latest fashion trends or searching for the perfect gift, Pablo has you covered. Try it out today and experience the future of online shopping.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
@@ -102,7 +106,7 @@ See the [open issues](https://github.com/PPableo/shopping-app-paulPableoProject2
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+https://paulpableo.com/
 
 Project Link: [https://github.com/PPableo/shopping-app-paulPableoProject2](https://github.com/PPableo/shopping-app-paulPableoProject2)
 
