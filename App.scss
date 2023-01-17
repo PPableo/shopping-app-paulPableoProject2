@@ -1,4 +1,4 @@
-@import "./Styles/variables";
+// @import "./Styles/variables";
 @import "./Styles/mixins";
 @import "./styles/general";
 @import "./components/NavBar/Navbar";
@@ -17,6 +17,7 @@
     src: local("AirbnbCerealLight"),
         url("./styles/fonts/Gilroy-Light.otf") format("opentype");
 }
+
 
 html {
     font-family: "Light";
