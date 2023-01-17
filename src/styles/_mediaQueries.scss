@@ -1,0 +1,94 @@
+/* ---------------------------- RESPONSIVE DESIGN --------------------------- */
+
+@media screen and (max-width: 1100px) {
+
+    /* all of our styles for smaller DESKTOP devices will go within this breakpoint */
+    
+    .slider {
+        .heroText {
+            width: 22%;
+            h1 {
+                font-size: 3.3rem;
+            }
+        }
+
+    }
+}
+
+@media screen and (max-width: 980px),
+screen and (max-height: 850px) {
+    /* all of our styles for MOBILE devices will go within this breakpoint */
+    .featuredProducts {
+        margin: 5px 5px;
+        .top {
+            display: flex;
+            flex-direction: column;
+            margin: 20px 20px ;
+        }
+        .bottom {
+        }
+    }
+    .slider {
+        .heroText {
+            width: 100%;
+            padding: 5px;
+            h1 {
+                font-size: 5rem;
+            }
+            p {
+                font-size: 5rem;
+            }
+        }
+    
+    }
+    
+    .navbar {
+        .right {
+            .item {
+                display: none;
+            }
+        }
+    }
+    
+}
+
+@media screen and (max-width: 500px),
+screen and (max-height: 490px) {
+    /* all of our styles for MOBILE devices will go within this breakpoint */
+    .navbar {
+        .left {
+            gap: 5px;
+        }
+        .right {
+            .item {
+                display: none;
+            }
+        }
+    }
+    
+    .featuredProducts {
+        margin: 5px 5px ;
+        .top {
+            display: flex;
+            flex-direction: column;
+            margin: 5px 5px ;
+    
+        }
+    }
+
+    .slider {
+        height: 100vh;
+        .heroText {
+            width: 50%;
+            h1 {
+                font-size: 2rem;
+            }
+            p {
+                font-size: .5rem;
+            }
+        }
+    
+    }
+
+    
+}
