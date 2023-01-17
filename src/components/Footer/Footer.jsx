@@ -24,23 +24,25 @@ const Footer = () => {
         <div className="item">
           <h1>About</h1>
           <span>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cum
-            quisquam adipisci fugiat deleniti vel porro ipsa dolorem temporibus
-            qui cumque.
+            Ese cabrón ni se imagina Que ahora soy quién se lo aplico Mami,
+            ¿cómo te lo explico? Yo a ninguna le suplico Pero tú me lo hace'
+            rico Lo' gemido' y lo' grito'
           </span>
         </div>
         <div className="item">
           <h1>Contact</h1>
           <span>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Obcaecati
-            in totam alias atque illum voluptatibus et mollitia. Corporis,
-            suscipit assumenda?
+            Lay low with the sun Everybody have a real good time, real good time
+            (surround me) Yeah, we cool, yeah, we drunk Lost my mind and baby I
+            feel high, I feel high (they're calling on me)
           </span>
         </div>
       </div>
       <div className="bottom">
         <div className="left">
-          <span className="logo">PableoStore</span>
+          <span className="logo">
+            P<span>a</span>blo
+          </span>
           <span className="copyright">
             COPYRIGHT © 2023 PAUL PABLEO ALL RIGHTS RESERVED
           </span>

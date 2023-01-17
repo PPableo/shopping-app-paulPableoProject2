@@ -16,6 +16,7 @@
                 object-fit: cover;
                 cursor: pointer;
                 margin-bottom: 10px;
+                margin-left: 5px;
             }
         }
         .mainImg {
@@ -31,5 +32,80 @@
 
     .right {
         flex: 1;
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+
+        .price {
+            font-size: 2.5rem;
+            font-weight: 550;
+            text-align: justify;
+        }
+
+        p{
+            font-size: 1.8rem;
+        }
+
+        .quantity {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+
+            button {
+                width: 30px;
+                height: 30px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                cursor: pointer;
+                border: none;
+            }
+        }
+
+        .add { 
+            width: 200px;
+            padding: 10px;
+            background-color: #2879fe;
+            border: none;
+            color: white;
+            display: flex;
+            gap: 20px;
+            cursor: pointer;
+            justify-content: center;
+            &:hover {
+                text-decoration: underline;
+            }
+        }
+
+        .link {
+            display: flex;
+            gap: 20px;
+
+            .item {
+                display: flex;
+                align-items: center;
+                gap: 10px;
+                font-size: 1.4rem;
+            }
+        }
+
+        .info {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            font-size: 14px;
+            margin-top: 30px;
+            color: gray;
+
+            hr {
+                width: calc(100% - 200px);
+                border: 1px solid lightgray;
+            }
+        }
+        
+        hr {
+            width: calc(100% - 200px);
+            border: 1px solid lightgray;
+        }
     }
 }

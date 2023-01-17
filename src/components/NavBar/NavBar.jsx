@@ -6,16 +6,19 @@ import PersonOutlineOutlinedIcon from "@material-ui/icons/PersonOutlineOutlined"
 import FavoriteBorderOutlinedIcon from "@material-ui/icons/FavoriteBorderOutlined";
 import ShoppingCartOutlinedIcon from "@material-ui/icons/ShoppingCartOutlined";
 import "./_Navbar.scss";
+import { useState } from "react";
+import Cart from "../Cart/Cart";
 
 const NavBar = () => {
+  const [open,setOpen] = useState(false)
   return (
     <div className="navbar">
       <div className="wrapper">
         <div className="left">
-          <div className="item">
+          {/* <div className="item">
             <img src="img/en.png" alt="English/Canadian Flag" />
             <KeyboardArrowDown />
-          </div>
+          </div> */}
           <div className="item">
             <Link className="link" to="/products/1">Women</Link>
           </div>
@@ -23,12 +26,12 @@ const NavBar = () => {
             <Link className="link"  to="/products/2">Men</Link>
           </div>
           <div className="item">
-            <Link className="link"  to="/products/3">Children</Link>
+            <Link className="link"  to="/products/3">Sale</Link>
           </div>
         </div>
 
         <div className="center">
-          <Link className="link"  to="/">PABLEOSTORE</Link>
+          <Link className="link"  to="/">P<span>A</span>BLO</Link>
         </div>
 
         <div className="right">
@@ -54,13 +57,18 @@ const NavBar = () => {
           <SearchIcon />
           <PersonOutlineOutlinedIcon />
           <FavoriteBorderOutlinedIcon />
-          <div className="cartIcon">
+          {/* NOTE: onClick we set state, if it's true it's false and vice versa*/}
+          <div className="cartIcon" onClick={()=>setOpen(!open)}>
             <ShoppingCartOutlinedIcon />
-            <span>0</span>
+            <span>0
+              {/* {products.length} */}
+            </span>
           </div>
         </div>
         </div>
       </div>
+      {/* NOTE: CONDITION: If it's open, run/open <Cart /> Component */}
+      {open && <Cart/>}
     </div>
   );
 };
