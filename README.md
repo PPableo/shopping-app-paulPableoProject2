@@ -8,8 +8,6 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -18,10 +16,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -30,10 +25,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">PABLO Shopping App</h3>
 
   <p align="center">
-    project_description
+Pablo Is an app designed for D2C online Retailers that offers, high-quality clothing, accessories and beauty products for men and women. Front-End Multi-page Project with Landing/Products/ and Product page with Carousel, Cart, and Filter Functionality. Built with React, SASS, and JavaScript 
     <br />
     <a href="https://github.com/PPableo/shopping-app-paulPableoProject2"><strong>Explore the docs »</strong></a>
     <br />
@@ -81,7 +76,11 @@
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+📌Pablo is a ecommerce platform designed as a direct-to-consumer online retailer. Pablo offers a wide range of high-quality clothing, accessories, and beauty products for men and women. With a sleek and user-friendly design, Pablo makes shopping easy and enjoyable.
+
+👉Our landing page features a beautiful carousel displaying our latest products, while our product page allows customers to easily browse and filter through our extensive selection. The cart functionality makes it simple to add items to your purchase and keep track of your order.
+
+👉Built with React, SASS, and JavaScript, Pablo offers lightning-fast performance and a seamless user experience. Whether you're looking for the latest fashion trends or searching for the perfect gift, Pablo has you covered. Try it out today and experience the future of online shopping.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
@@ -102,7 +101,7 @@ See the [open issues](https://github.com/PPableo/shopping-app-paulPableoProject2
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+https://paulpableo.com/
 
 Project Link: [https://github.com/PPableo/shopping-app-paulPableoProject2](https://github.com/PPableo/shopping-app-paulPableoProject2)
 
@@ -113,9 +112,9 @@ Project Link: [https://github.com/PPableo/shopping-app-paulPableoProject2](https
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* [PEXELS @mitch-lally-401527143](https://www.pexels.com/@mitch-lally-401527143/)
+* [MUI ICONS](https://mui.com/material-ui/material-icons/)
+* [Lama Dev](https://www.youtube.com/watch?v=BCkWFblNLKU&t=207s)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
