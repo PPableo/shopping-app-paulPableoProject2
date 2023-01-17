@@ -117,7 +117,7 @@ Project Link: [https://github.com/PPableo/shopping-app-paulPableoProject2](https
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [Lama Dev]()
+* [Lama Dev](https://www.youtube.com/watch?v=BCkWFblNLKU&t=207s)
 * []()
 * []()
 
@@ -140,4 +140,3 @@ Project Link: [https://github.com/PPableo/shopping-app-paulPableoProject2](https
 [React-url]: https://reactjs.org/
 [SASS.js]: https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=SASS&logoColor=white
 [SASS-url]: https://sass-lang.com/
-[Lama Dev]: https://www.youtube.com/watch?v=BCkWFblNLKU&t=207s
