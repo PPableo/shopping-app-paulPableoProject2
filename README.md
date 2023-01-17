@@ -211,22 +211,22 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/github_username/shopping-app-paulPableoProject2.svg?style=for-the-badge
+[contributors-url]: https://github.com/PPableo/shopping-app-paulPableoProject2/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/PPableo/shopping-app-paulPableoProject2.svg?style=for-the-badge
+[forks-url]: https://github.com/PPableo/shopping-app-paulPableoProject2/network/members
+[stars-shield]: https://img.shields.io/github/stars/PPableo/shopping-app-paulPableoProject2.svg?style=for-the-badge
+[stars-url]: https://github.com/PPableo/shopping-app-paulPableoProject2/stargazers
+[issues-shield]: https://img.shields.io/github/issues/PPableo/shopping-app-paulPableoProject2.svg?style=for-the-badge
+[issues-url]: https://github.com/PPableo/shopping-app-paulPableoProject2/issues
+[license-shield]: https://img.shields.io/github/license/PPableo/shopping-app-paulPableoProject2.svg?style=for-the-badge
+[license-url]: https://github.com/PPableo/shopping-app-paulPableoProject2/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://linkedin.com/in/paulpableo
 [product-screenshot]: images/screenshot.png
 [HTML5.js]: https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [HTML-url]: https://developer.mozilla.org/en-US/docs/Glossary/HTML5/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [SASS.js]: https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=SASS&logoColor=white
-[SASS-url]: https://vuejs.org/](https://sass-lang.com/
+[SASS-url]: https://sass-lang.com/
