@@ -30,7 +30,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/PPableo/shopping-app-paulPableoProject2">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -44,9 +44,9 @@
     <br />
     <a href="https://pabloproject2.netlify.app/">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/PPableo/shopping-app-paulPableoProject2/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/PPableo/shopping-app-paulPableoProject2/issues">Request Feature</a>
   </p>
 </div>
 
@@ -93,7 +93,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
+* [![HTML][HTML.js]][HTML-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
