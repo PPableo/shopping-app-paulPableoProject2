@@ -30,10 +30,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">PABLO Shopping App</h3>
 
   <p align="center">
-    project_description
+Pablo Is an app designed for D2C online Retailers that offers, high-quality clothing, accessories and beauty products for men and women. Front-End Multi-page Project with Landing/Products/ and Product page with Carousel, Cart, and Filter Functionality. Built with React, SASS, and JavaScript 
     <br />
     <a href="https://github.com/PPableo/shopping-app-paulPableoProject2"><strong>Explore the docs »</strong></a>
     <br />
