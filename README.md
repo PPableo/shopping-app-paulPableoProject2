@@ -33,6 +33,7 @@ Pablo Is an app designed for D2C online Retailers that offers, high-quality clot
   </p>
 </div>
 
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
