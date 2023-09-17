@@ -14,7 +14,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/PPableo/shopping-app-paulPableoProject2">
-    <img src="images/logo.png" alt="Logo" width="250" height="150">
+    <img src="images/6.png" alt="Logo" width="250" height="150">
   </a>
 
 <h3 align="center">PABLO Shopping App</h3>
